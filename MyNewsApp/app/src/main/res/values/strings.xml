@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyNewsApp</string>
+    <string name="network_not_found">Network not found. Please connect your device to internet.</string>
+    <string name="no_stories">There are no stories at this point of time</string>
+    <string name="no_link_found">No Like Found</string>
+</resources>
